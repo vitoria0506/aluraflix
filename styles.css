@@ -6,10 +6,12 @@ body{
     header {   
         border-bottom: solid 2px rgb(10, 110, 240);
         padding: 20px;
-        font - 32px;
+        font-size: 32px;
         color: rgb(42, 122, 228);
     }
 
     section {
       background: rgb(184, 156, 213);
+      padding-bottom: 80px;
+      padding-top:80px;
     }
