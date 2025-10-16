@@ -2,7 +2,7 @@ body{
     color: white;
     background: black;
     margin: 0px
-    font-family: "Chakra Petch", sans-serif;
+    font-family "Chakra Petch", sans-serif;
  } 
 
     header {   
@@ -12,7 +12,7 @@ body{
         color: rgb(42, 122, 228);
     }
 
-    section {
+   .chamada{
       background: rgb(184, 156, 213);
       padding-bottom: 80px;
       padding-top:80px;
@@ -42,3 +42,8 @@ img  {
       overflow-x:auto;
       gap:    10px;
       }
+
+   .categoria {
+padding-left:  20px;
+padding-right: 20px
+   }
