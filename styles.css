@@ -28,10 +28,17 @@ body{
          font-size: 40px
 
 
-p {
-     font-size: 20px
+p { 
+   font-size:20px;
+
 }
 
 img  {
-    height: 200px;
+    height: 200;
     }
+
+    .categoria-videos {  
+      display: flex;
+      overflow-x:auto;
+      gap:    10px;
+      }
