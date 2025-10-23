@@ -26,15 +26,10 @@ body{
    
     h1 {  
          font-size: 40px
-
-
-p { 
-   font-size:  20px;
-}
-
-img  {
-    height: 200;
     }
+ h1{
+   font-size: 20px;
+}
 
     .categoria-videos {  
       display: flex;
@@ -46,3 +41,8 @@ img  {
 padding-left:  20px;
 padding-right: 20px
    }
+
+      .categoria-videos img {  
+           opacity:  0,5;
+           height: 200;
+      }
